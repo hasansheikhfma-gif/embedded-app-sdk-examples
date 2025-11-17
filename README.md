@@ -1,4 +1,4 @@
-# Embedded App SDK Examples
+# discord
 
 <p align="center">
   <img src="https://github.com/discord/embedded-app-sdk/raw/main/assets/discord-embedded-apps.svg" alt="Discord Embedded App SDK" width="500" />
